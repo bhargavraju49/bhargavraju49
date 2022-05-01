@@ -1,7 +1,7 @@
 Hi 👋 My name is Bhargava Raju
 ==============================
 
-WEB Developer and DSA
+👨🏻‍🎓 competitive coding and Web development 
 ---------------------
 
 I would like to deal with challenging tasks in profession and also grab some knowledge related to that in short span by investing time on self learn and knowledge transfer from experts to work effectively.
