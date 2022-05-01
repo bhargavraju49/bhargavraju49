@@ -1,4 +1,4 @@
-Hi 👋 My name is Bhargava Siva Rama Raju Penumetcha
+Hi 👋 My name is Bhargava Raju
 ==============================
 👨🏻‍🎓 competitive coding and Web development 
 
