@@ -1,4 +1,4 @@
-Hi 👋 My name is Bhargava Raju
+Hi 👋 My name is Bhargava Siva Rama Raju Penumetcha
 ==============================
 
 👨🏻‍🎓 competitive coding and Web development 
@@ -8,8 +8,8 @@ I would like to deal with challenging tasks in profession and also grab some kno
 
 * 🌍  I'm based in India, Vijayawada
 * ✉️  You can contact me at [bobby.srrp@gmail.com](mailto:bobby.srrp@gmail.com)
-* 🧠  I'm learning Backend Development using Node.js, Express, MongoDB
-* 🤝  I'm open to collaborating on Full stack we development
+* 🧠  I'm currently learning Backend Development using Node.js, Express, MongoDB
+* 🤝  I'm open to collaborating on Full stack web development
 
 ### Skills
 
