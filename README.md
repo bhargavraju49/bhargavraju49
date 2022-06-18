@@ -1,6 +1,6 @@
 Hi 👋 My name is Bhargava Raju
 ==============================
-👨🏻‍🎓 competitive coding and Web development 
+👨🏻‍🎓 Fullstack Web developer
 
 ---------------------
 
