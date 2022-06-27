@@ -38,11 +38,10 @@ I would like to deal with challenging tasks in profession and also grab some kno
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bhargavraju49"><img src="https://github-readme-stats.vercel.app/api?username=bhargavraju49&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=84cc16&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="bhargavraju49's GitHub stats" /></a>
-
 <a href="http://www.github.com/bhargavraju49"><img src="https://activity-graph.herokuapp.com/graph?username=bhargavraju49&bg_color=27272a&color=84cc16&line=ffffff&point=84cc16&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/bhargavraju49" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavraju49&langs_count=10&title_color=22c55e&text_color=84cc16&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/bhargavraju49"><img src="https://github-readme-stats.vercel.app/api?username=bhargavraju49&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=84cc16&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="bhargavraju49's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/bhargavraju49/Ping-pong" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavraju49&repo=Ping-pong&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
