@@ -46,6 +46,6 @@ I would like to deal with challenging tasks in profession and also grab some kno
 <b>Games</b>
 <div display = 'flex' >
 <div width="50%" align="center"><a href="https://github.com/bhargavraju49/Ping-pong" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavraju49&repo=Ping-pong&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<div width="50%" align="center"><a href="https://github.com/bhargavraju49/TIK-TAC" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavraju49&repo=TIK-TAC&title_color=22c55e&text_color=84cc16&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="50%" align="center"><a href="https://github.com/bhargavraju49/TIK-TAC" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavraju49&repo=TIK-TAC&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
  </div>
 
