@@ -8,7 +8,7 @@ I would like to deal with challenging tasks in profession and also grab some kno
 
 * 🌍  I'm based in India, Vijayawada
 * ✉️  You can contact me at [bobby.srrp@gmail.com](mailto:bobby.srrp@gmail.com)
-* 🧠  I'm currently learning Backend Development using Node.js, Express, MongoDB
+* 🧠  I'm currently learning new technologies related to web development
 * 🤝  I'm open to collaborating on Full stack web development
 
 ### Skills
