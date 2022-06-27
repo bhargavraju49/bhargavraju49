@@ -1,6 +1,6 @@
 Hi 👋 My name is Bhargava Raju
 ==============================
-👨🏻‍🎓 Fullstack Web developer
+👨🏻‍🎓 Fullstack Web developer (MERN) || competetive coding (PYTHON)
 
 ---------------------
 
