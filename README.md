@@ -1,4 +1,4 @@
-Hi 👋 My name is Bhargava Raju
+Hi 👋 My name is Bhargava Penumetcha
 ==============================
 👨🏻‍🎓 Fullstack Web developer (MERN) || competetive coding (PYTHON)
 
