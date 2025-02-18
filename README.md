@@ -7,7 +7,8 @@ Hi 👋 My name is Bhargava Penumetcha
 I would like to deal with challenging tasks in profession and also grab some knowledge related to that in short span by investing time on self learn and knowledge transfer from experts to work effectively.
 
 * 🌍  I'm based in India, Vijayawada
-* ✉️  You can contact me at [bobby.srrp@gmail.com](mailto:bobby.srrp@gmail.com)
+* ✉️  You can contact me at professional mail :: [bhargava.penumetcha49@gmail.com](mailto:bhargava.penumetcha49@gmail.com)
+* ✉️  You can contact me at personal mail :: [bobby.srrp@gmail.com](mailto:bobby.srrp@gmail.com)
 * 🧠  I'm currently learning new technologies related to web development
 * 🤝  I'm open to collaborating on Full stack web development
 
